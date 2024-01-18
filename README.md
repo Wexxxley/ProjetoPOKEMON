@@ -1,2 +1,2 @@
-# ProjetoPOKEMON
- Jogo criado no primeiro semestra da faculdade. Jogo feito em c++
+# Projeto POKEMON
+ Projeto final Fundamentos de programação
